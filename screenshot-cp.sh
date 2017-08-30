@@ -22,7 +22,7 @@ server_host=""
 server_user=""
 
 # Privat key for authentication
-# e.g. ~/.ssh.pub_key
+# e.g. ~/.ssh/pub_key
 server_key=""
 
 # Path on server, to store the picture

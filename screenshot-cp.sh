@@ -16,10 +16,10 @@ ss_tool=gnome-screenshot
 ss_tool_args="-e shadow"
 
 # Hostname or IP of the server, to upload screenshot to
-server_host=vps1.codr.dk
+server_host=""
 
 # Username on server.
-server_user=jc
+server_user=""
 
 # Privat key for authentication
 # e.g. ~/.ssh.pub_key
